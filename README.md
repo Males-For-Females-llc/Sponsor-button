@@ -33,4 +33,4 @@
 •type: JAVA
 
 Learn more about formatting compass.yml:
-# https://go.atlassian.com/compass-yml-format
+# https://malesforfemalesllc.online
